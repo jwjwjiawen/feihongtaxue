@@ -77,10 +77,10 @@ disqus: #loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 84c4299d3751ad924e7d
+  clientSecret: 1fe4ecbbfdec969c656421e21b2fd368a238289e
+  repo: feihongtaxue
+  owner: jwjwjiawen
   proxy:
 
 # 输入Google Analytics web tracking code
