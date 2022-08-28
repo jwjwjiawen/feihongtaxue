@@ -79,8 +79,8 @@ disqus: #loffer #shortname
 gitalk:
   clientID: 84c4299d3751ad924e7d
   clientSecret: 1fe4ecbbfdec969c656421e21b2fd368a238289e
-  repo: /feihongtaxue
-  owner: jwjwjiawen
+  repo: 
+  owner: 
   proxy:
 
 # 输入Google Analytics web tracking code
