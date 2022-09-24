@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: 雪泥
-description: 飞鸿过处
+description: 鸿飞那复计东西。
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -50,13 +50,12 @@ excerpt_separator: <!-- more -->
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  lofter: https://iris2020.lofter.com
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github: #FromEndWorld/loffer #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
